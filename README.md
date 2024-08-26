@@ -43,6 +43,7 @@ Waterfall Methodology:
 •	Sequential Approach: Each phase of development (e.g., design, coding, testing) is completed before moving on to the next.
 •	Documentation: Heavy documentation is emphasized, with each stage producing detailed outputs.
 •	Best Use Case: Suitable for projects with well-defined requirements that are unlikely to change, such as government contracts or construction projects.
+
 Agile Methodology:
 •	Iterative and Incremental Approach: Development occurs in small cycles or "sprints," allowing for regular feedback and adjustments.
 •	Collaboration and Flexibility: Emphasizes collaboration with stakeholders and the ability to adapt to changes quickly.
